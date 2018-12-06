@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27017" started-at="2018-12-05T10:44:17Z" finished-at="2018-12-05T10:44:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27017" started-at="2018-12-05T10:44:17Z" finished-at="2018-12-05T10:44:44Z">
+      <class name="TestCases.TestDashBoard">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:TestCases.TestDashBoard@636be97c]" name="Setup" is-config="true" duration-ms="22058" started-at="2018-12-05T10:44:17Z" finished-at="2018-12-05T10:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="ClickStdMenue()[pri:1, instance:TestCases.TestDashBoard@636be97c]" name="ClickStdMenue" duration-ms="4024" started-at="2018-12-05T10:44:39Z" finished-at="2018-12-05T10:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickStdMenue -->
+        <test-method status="PASS" signature="Quit()[pri:0, instance:TestCases.TestDashBoard@636be97c]" name="Quit" is-config="true" duration-ms="860" started-at="2018-12-05T10:44:43Z" finished-at="2018-12-05T10:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- TestCases.TestDashBoard -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
